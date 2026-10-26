@@ -1,0 +1,12 @@
+sarvamai
+yfinance
+pandas
+pandas-ta
+requests
+beautifulsoup4
+lxml
+pyaudio
+pydub
+python-dotenv
+upstox-python-sdk
+smartapi-python
